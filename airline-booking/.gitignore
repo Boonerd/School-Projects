@@ -1,0 +1,9 @@
+# Ignore system files and directories
+.bash_history
+.gitconfig
+.idlerc/
+.lesshst
+.ssh/
+.vscode/
+*.pyc
+db.sqlite3
