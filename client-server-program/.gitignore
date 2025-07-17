@@ -1,0 +1,15 @@
+# Java build files
+*.class
+*.jar
+*.war
+
+# NetBeans project files
+nbproject/private/
+
+# Build directories
+build/
+dist/
+
+# OS-specific
+.DS_Store
+Thumbs.db
