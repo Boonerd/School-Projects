@@ -1,8 +1,8 @@
-# Cinema Booking System
+# Cinema Booking System 
 
-## Group Members:
+## Group Members/Collaboraters:
 
-- Patriciah -152569 Mariam - 147398 Robert -150233 Keith - 147478 Miles - 151090 - Ian Gatumu - 103435
+- Patriciah - Mariam -  Robert - Keith -  Miles -  - Ian Gatumu - (https://github.com/IanPythom)
 
 ## Project Description:
 
